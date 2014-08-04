@@ -1,0 +1,40 @@
+1,"Jimmy Graham, NO TE  P",174
+2,"Rob Gronkowski*, NE TE  O",173
+3,"Tony Gonzalez, Atl TE",133
+4,"Jason Witten, Dal TE",123
+5,"Vernon Davis, SF TE",114
+6,"Kyle Rudolph, Min TE",98
+7,"Owen Daniels, Hou TE",98
+8,"Greg Olsen, Car TE",102
+9,"Antonio Gates, SD TE",99
+10,"Brandon Myers, NYG TE",98
+11,"Jared Cook, StL TE",94
+12,"Jermichael Finley, GB TE",98
+13,"Martellus Bennett, Chi TE",93
+14,"Brandon Pettigrew, Det TE",82
+15,"Fred Davis, Wsh TE",78
+16,"Jordan Cameron, Cle TE",75
+17,"Coby Fleener, Ind TE  P",68
+18,"Ed Dickson, Bal TE  P",67
+19,"Dwayne Allen, Ind TE  Q",65
+20,"Jermaine Gresham, Cin TE",69
+21,"Rob Housler, Ari TE  Q",63
+22,"Julius Thomas, Den TE",70
+23,"Zach Sudfeld, NE TE",53
+24,"Tyler Eifert, Cin TE",64
+25,"Zach Miller, Sea TE",59
+26,"Brent Celek, Phi TE",63
+27,"Scott Chandler, Buf TE",60
+28,"Marcedes Lewis, Jac TE",66
+29,"Zach Ertz, Phi TE",53
+30,"Heath Miller*, Pit TE",63
+31,"Dallas Clark, Bal TE",50
+32,"Delanie Walker, Ten TE  P",55
+33,"Travis Kelce, KC TE  P",49
+34,"Tony Scheffler, Det TE",43
+35,"Luke Stocker, TB TE  P",47
+36,"Kellen Winslow, NYJ TE",52
+37,"David Paulson, Pit TE",37
+38,"Jacob Tamme, Den TE  P",40
+39,"Tom Crabtree, TB TE",39
+40,"Taylor Thompson, Ten TE",33

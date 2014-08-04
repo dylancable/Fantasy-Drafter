@@ -1,0 +1,31 @@
+8,"Robert Griffin III, Wsh QB  Q",268
+11,"Andrew Luck, Ind QB",280
+12,"Tony Romo, Dal QB",284
+13,"Eli Manning, NYG QB",232
+14,"Ben Roethlisberger, Pit QB  P",221
+15,"Joe Flacco, Bal QB",215
+16,"Michael Vick, Phi QB",198
+17,"Sam Bradford, StL QB",206
+18,"Andy Dalton, Cin QB",210
+19,"Jay Cutler, Chi QB",200
+20,"Josh Freeman, TB QB",218
+21,"Carson Palmer, Ari QB",221
+22,"Matt Schaub, Hou QB",230
+23,"Philip Rivers, SD QB",216
+24,"Ryan Tannehill, Mia QB",205
+25,"Alex Smith, KC QB",170
+26,"Jake Locker, Ten QB",170
+27,"Brandon Weeden, Cle QB",170
+28,"Christian Ponder, Min QB",165
+29,"EJ Manuel, Buf QB  Q",152
+30,"Matt Flynn, Oak QB",134
+31,"Geno Smith, NYJ QB",102
+32,"Blaine Gabbert, Jac QB  Q",90
+33,"Chad Henne, Jac QB",49
+34,"Mark Sanchez, NYJ QB  Q",46
+35,"Kevin Kolb, Buf QB  Q",59
+36,"Nick Foles, Phi QB",63
+37,"Matt Cassel, Min QB",30
+38,"Jason Campbell, Cle QB",29
+39,"Bruce Gradkowski, Pit QB",29
+40,"Kirk Cousins, Wsh QB  P",33

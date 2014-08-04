@@ -1,0 +1,32 @@
+1,Denver D/ST (NA),181.83
+2,Chicago D/ST (NA),172.62
+3,Cincinnati D/ST (NA),162.95
+4,Houston D/ST (NA),161.76
+5,Arizona D/ST (NA),149.16
+6,San Diego D/ST (NA),148.03
+7,New England D/ST (NA),146.53
+8,Pittsburgh D/ST (NA),144.1
+9,St. Louis D/ST (NA),138.77
+10,San Francisco D/ST (NA),138.43
+11,Seattle D/ST (NA),138
+12,Cleveland D/ST (NA),134.8
+13,Miami D/ST (NA),132.95
+13,Tennessee D/ST (NA),132.95
+15,Green Bay D/ST (NA),131.85
+16,New York Jets D/ST (NA),131.11
+17,Carolina D/ST (NA),131.05
+18,Dallas D/ST (NA),130.06
+19,Washington D/ST (NA),129.96
+20,Baltimore D/ST (NA),129.91
+21,Atlanta D/ST (NA),128.94
+22,New York Giants D/ST (NA),128.71
+23,Kansas City D/ST (NA),125.82
+24,Philadelphia D/ST (NA),125.72
+25,Jacksonville D/ST (NA),125.06
+26,Minnesota D/ST (NA),124.52
+27,Indianapolis D/ST (NA),123.99
+28,New Orleans D/ST (NA),122.04
+29,Buffalo D/ST (NA),120.94
+30,Oakland D/ST (NA),119.64
+31,Detroit D/ST (NA),118.05
+32,Tampa Bay D/ST (NA),117.27

@@ -1,0 +1,80 @@
+1,"Calvin Johnson, Det WR  P",236
+2,"A.J. Green, Cin WR  P",201
+3,"Dez Bryant, Dal WR  P",202
+4,"Brandon Marshall, Chi WR",196
+5,"Julio Jones, Atl WR",186
+6,"Demaryius Thomas, Den WR",180
+7,"Roddy White, Atl WR  P",177
+8,"Vincent Jackson, TB WR",175
+9,"Andre Johnson, Hou WR",177
+10,"Randall Cobb, GB WR  P",171
+11,"Larry Fitzgerald, Ari WR",167
+12,"Wes Welker, Den WR",154
+13,"Victor Cruz, NYG WR  P",152
+14,"Marques Colston, NO WR  P",150
+15,"Reggie Wayne, Ind WR",149
+16,"Mike Wallace, Mia WR",154
+17,"Danny Amendola, NE WR  P",115
+18,"Hakeem Nicks, NYG WR  P",124
+19,"Steve Smith, Car WR",137
+20,"Eric Decker, Den WR",134
+21,"Dwayne Bowe, KC WR",132
+22,"James Jones, GB WR",146
+23,"Antonio Brown, Pit WR",134
+24,"Jordy Nelson, GB WR  Q",134
+25,"Pierre Garcon, Wsh WR  P",123
+26,"Cecil Shorts, Jac WR",131
+27,"DeSean Jackson, Phi WR",130
+28,"Torrey Smith, Bal WR  P",138
+29,"Greg Jennings, Min WR",122
+30,"Tavon Austin, StL WR",119
+31,"Anquan Boldin, SF WR",125
+32,"Steve Johnson, Buf WR  P",128
+33,"Sidney Rice, Sea WR  P",134
+34,"T.Y. Hilton, Ind WR",126
+35,"Miles Austin, Dal WR",118
+36,"Mike Williams, TB WR  P",123
+37,"Lance Moore, NO WR",117
+38,"Kenny Britt, Ten WR  P",93
+39,"Emmanuel Sanders, Pit WR",110
+40,"Denarius Moore, Oak WR",115
+41,"Chris Givens, StL WR",117
+42,"Josh Gordon, Cle WR  SSPD",118
+43,"Vincent Brown, SD WR",108
+44,"Michael Floyd, Ari WR",84
+45,"Golden Tate, Sea WR",112
+46,"Malcom Floyd, SD WR  Q",99
+47,"Rueben Randle, NYG WR",105
+48,"Ryan Broyles, Det WR  Q",107
+49,"Kendall Wright, Ten WR  Q",112
+50,"DeAndre Hopkins, Hou WR  Q",86
+51,"Alshon Jeffery, Chi WR",92
+52,"Andre Roberts, Ari WR",87
+53,"Kenbrell Thompkins, NE WR",74
+54,"Brian Hartline, Mia WR",81
+55,"Justin Blackmon, Jac WR  SSPD",78
+56,"Greg Little, Cle WR  P",75
+57,"Austin Collie, SF WR",82
+58,"Santana Moss, Wsh WR",70
+59,"Jacoby Jones, Bal WR",77
+60,"Darrius Heyward-Bey, Ind WR",70
+61,"Robert Woods, Buf WR",69
+62,"Aaron Dobson, NE WR",67
+63,"Jeremy Kerley, NYJ WR  P",83
+64,"Braylon Edwards, NYJ WR  P",79
+65,"Santonio Holmes, NYJ WR  Q",57
+66,"Nate Burleson, Det WR  P",68
+67,"Brandon LaFell, Car WR",76
+68,"Andrew Hawkins*, Cin WR  O",69
+69,"Brian Quick, StL WR",67
+70,"Cordarrelle Patterson, Min WR",58
+71,"Keenan Allen, SD WR",55
+72,"Justin Hunter, Ten WR",58
+73,"Rod Streater, Oak WR  Q",65
+74,"Brandon Lloyd, FA WR",74
+75,"Stephen Hill, NYJ WR  Q",51
+76,"Jarius Wright, Min WR  P",56
+77,"Julian Edelman, NE WR",62
+78,"Brandon Gibson, Mia WR",65
+79,"Eddie Royal, SD WR  Q",63
+80,"Davone Bess, Cle WR",62

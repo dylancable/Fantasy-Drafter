@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=void\ println(java.lang.String)
+comment1.params=str
+comment1.target=void\ print(java.lang.String)
+comment2.params=
+comment2.target=int\ readInt()
+comment3.params=str
+comment3.target=int\ readInt(java.lang.String)
+comment4.params=
+comment4.target=double\ readDouble()
+comment5.params=str
+comment5.target=double\ readDouble(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ readLine()
+comment7.params=str
+comment7.target=java.lang.String\ readLine(java.lang.String)
+comment8.params=
+comment8.target=boolean\ readBoolean()
+comment9.params=str
+comment9.target=boolean\ readBoolean(java.lang.String)
+numComments=10

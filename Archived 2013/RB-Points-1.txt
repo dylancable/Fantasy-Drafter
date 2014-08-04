@@ -1,0 +1,27 @@
+
+53,"Roy Helu, Wsh RB",74
+54,"Robert Turbin, Sea RB  P",68
+55,"Zac Stacy, StL RB",68
+56,"Daniel Thomas, Mia RB",61
+57,"Mike Tolbert, Car RB  P",66
+60,"Kendall Hunter, SF RB  P",62
+61,"Marcel Reece, Oak RB",72
+62,"Christine Michael, Sea RB",48
+63,"LaRod Stephens-Howling, Pit RB  Q",54
+64,"DuJuan Harris, GB RB  P",52
+65,"Ryan Williams, Ari RB  P",49
+66,"Justin Forsett, Jac RB  P",49
+67,"Lance Dunbar*, Dal RB  O",59
+68,"Joseph Randle, Dal RB",53
+69,"Michael Turner, FA RB",73
+70,"Mike Gillislee, Mia RB",48
+71,"LaMichael James, SF RB",51
+72,"Toby Gerhart, Min RB",52
+73,"Rashad Jennings, Oak RB",52
+74,"Knowshon Moreno, Den RB",34
+75,"Knile Davis, KC RB",44
+76,"Joique Bell, Det RB",51
+77,"Evan Royster, Wsh RB  Q",28
+78,"Chris Polk, Phi RB",23
+79,"Brandon Jackson, Cle RB",37
+80,"Willis McGahee, FA RB  P",53

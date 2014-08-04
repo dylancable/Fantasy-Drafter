@@ -1,0 +1,32 @@
+1,"Seattle D/ST, NA",72.5
+2,"San Francisco D/ST, NA",75
+3,"Houston D/ST, NA",88.2
+4,"Chicago D/ST, NA",96.8
+5,"Denver D/ST, NA",102.9
+6,"Cincinnati D/ST, NA",123.9
+7,"New England D/ST, NA",126.8
+8,"Pittsburgh D/ST, NA",128.1
+9,"Green Bay D/ST, NA",138.5
+10,"St. Louis D/ST, NA",140.5
+11,"Baltimore D/ST, NA",142.8
+12,"Tampa Bay D/ST, NA",144
+13,"Atlanta D/ST, NA",147.8
+14,"Dallas D/ST, NA",147.9
+15,"New York Giants D/ST, NA",148
+16,"Minnesota D/ST, NA",152.1
+17,"Miami D/ST, NA",152.4
+18,"San Diego D/ST, NA",159.8
+19,"Arizona D/ST, NA",170
+20,"Cleveland D/ST, NA",170
+21,"New York Jets D/ST, NA",170
+22,"Washington D/ST, NA",170
+23,"Kansas City D/ST, NA",170
+24,"Detroit D/ST, NA",170
+25,"Carolina D/ST, NA",170
+26,"Philadelphia D/ST, NA",170
+27,"New Orleans D/ST, NA",170
+28,"Indianapolis D/ST, NA",170
+29,"Tennessee D/ST, NA",170
+30,"Buffalo D/ST, NA",170
+31,"Oakland D/ST, NA",170
+32,"Jacksonville D/ST, NA",170
